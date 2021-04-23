@@ -24,4 +24,4 @@ bot.on("messageUpdate", (message, newMessage) => {
   }
 });
 
-bot.login("");
+bot.login("TOKEN");
