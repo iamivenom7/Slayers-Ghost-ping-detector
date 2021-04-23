@@ -1,1 +1,1 @@
-# Slayers-Ghost-ping-detector
+# Sola-And-SlayerM-Ghost-ping-detector
