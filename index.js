@@ -24,4 +24,4 @@ bot.on("messageUpdate", (message, newMessage) => {
   }
 });
 
-bot.login("ODE3ODQyMTM3MTEwNTQ0NDM0.YEPY2A.2JkwQHTqtBH-e1rE-PVC_j-gDsg");
+bot.login("");
